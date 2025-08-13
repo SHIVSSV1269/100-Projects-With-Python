@@ -1,0 +1,135 @@
+ _
+| |
+| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
+| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+| | | | (_| | | | | (_| | | | | | | (_| | | | |
+|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                    __/ |
+                   |___/    
+Word to guess: _______
+****************************6/6 LIVES LEFT****************************
+Guess a letter: a
+Word to guess: _a____a
+
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+
+****************************6/6 LIVES LEFT****************************
+Guess a letter: g
+Word to guess: _a____a
+You guessed g, that's not in the word. You lose a life.
+
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+
+****************************5/6 LIVES LEFT****************************
+Guess a letter: e
+Word to guess: _a____a
+You guessed e, that's not in the word. You lose a life.
+
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+
+****************************4/6 LIVES LEFT****************************
+Guess a letter: h
+Word to guess: _a_h_ha
+
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+
+****************************4/6 LIVES LEFT****************************
+Guess a letter: b
+Word to guess: _a_h_ha
+You guessed b, that's not in the word. You lose a life.
+
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+****************************3/6 LIVES LEFT****************************
+Guess a letter: c
+Word to guess: _a_h_ha
+You guessed c, that's not in the word. You lose a life.
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+
+****************************2/6 LIVES LEFT****************************
+Guess a letter: s
+Word to guess: _a_h_ha
+You guessed s, that's not in the word. You lose a life.
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========
+
+****************************1/6 LIVES LEFT****************************
+Guess a letter: t
+Word to guess: _a_htha
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========
+
+****************************1/6 LIVES LEFT****************************
+Guess a letter: t
+You've already guessed t
+Word to guess: _a_htha
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========
+
+****************************1/6 LIVES LEFT****************************
+Guess a letter: k
+Word to guess: _a_htha
+You guessed k, that's not in the word. You lose a life.
+***********************IT WAS naphtha! YOU LOSE**********************
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========
